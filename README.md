@@ -229,7 +229,7 @@ Visit the page at `http://localhost:5173/1` to confirm that the individual puppy
 
 ## 3. Updating a puppy
 
-- [ ] As a user, I want to be able to update the puppy's name, breed, and owner
+- [x] As a user, I want to be able to update the puppy's name, breed, and owner
 
 For this step you will implement a route `PATCH /api/v1/puppies/:id` to update a puppy's details. You will update frontend to allow users to edit and update a puppy's details.
 
