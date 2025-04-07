@@ -9,7 +9,7 @@
 
 ### 0. Cloning and installation
 
-- [ ] Clone this repo, navigate to it, install dependencies with `npm install`, and start the dev server with `npm run dev`
+- [x] Clone this repo, navigate to it, install dependencies with `npm install`, and start the dev server with `npm run dev`
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 1. Take a look around and list all puppies
 
-- [ ] As a user, I want to see a list off all the puppies.
+- [x] As a user, I want to see a list off all the puppies.
 
 Let's get familiar with the code base so you can begin to understand what needs to be done to get it to work.
 
@@ -111,7 +111,7 @@ And if you visit the browser now, you should be able to see our beautiful pups :
 
   </details>
 
-- [ ] Read the updated puppies from `storage/data.json`
+- [x] Read the updated puppies from `storage/data.json`
 
   <details>
     <summary>Reading puppies from our data file</summary>
@@ -157,7 +157,7 @@ And if you visit the browser now, you should be able to see our beautiful pups :
 
 ## 2. Displaying a detailed single puppy page
 
-- [ ] As a user, I want to click on a puppy and see their name, breed, and who their owner is.
+- [x] As a user, I want to click on a puppy and see their name, breed, and who their owner is.
 
 For this step we will implement a route `GET /api/v1/puppies/:id` to fetch details of a specific puppy. We will update the frontend to allow users to click on a puppy and see their details.
 
@@ -294,7 +294,7 @@ Commit, push and you could now submit your branch for the CP07 Trello ticket :)
 
 ## 4. Stretch: Adding a new puppy
 
-- [ ] As a user, I want to add a new puppy.
+- [x] As a user, I want to add a new puppy.
 
 For this step you will add a new react component and client-side route that shows a form which lets the user add a new puppy.
 
@@ -310,7 +310,7 @@ For this step you will add a new react component and client-side route that show
 
 ## 5. Stretch: Adding a new animal
 
-- [ ] As a user, I want to add a new animal.
+- [x] As a user, I want to add a new animal.
 
 For this step, challenge yourself to add a new animal. Maybe you want to display cats? Or iguanas? Or maybe a collection of stick insects? Think about how the user experience and how you can update the app to accommodate different animals.
 
